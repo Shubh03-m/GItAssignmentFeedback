@@ -1,5 +1,6 @@
 # GItAssignmentFeedback
 Assignment repo for Feedback App - fork/branch/PR exercise
+patch-1
 ---
 
 ## Feedback App — Frontend & Backend (Assignment)
@@ -20,4 +21,4 @@ Student B (Backend & Integration)
   4. npm run dev
 
 This repo demonstrates the fork → branch → PR workflow for the assignment.
-
+NOTE: Student 1 updated this line to simulate a conflict.
